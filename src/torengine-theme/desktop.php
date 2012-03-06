@@ -52,6 +52,7 @@
 		<p>
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/openftp/">OpenFTP</a><br /><br />
 		</p>
+		<div class="clear"></div>
 	</div>
 
 </div>
