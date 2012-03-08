@@ -128,3 +128,7 @@ div.post_separator hr{
 	overflow: hidden;
 	border: 0px;
 }
+
+.bold{
+	font-weight: bold;
+}

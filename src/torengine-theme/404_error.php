@@ -17,18 +17,15 @@
  *  along with this program.  If not, see <http://www.gnu.org/licenses/>.
  * 
 */
-
-	get_sidebar("mobile_detect"); 
-	$detect = new Mobile_Detect();
-	$mobi = $detect->isMobile();
-	if(!$mobi){
-		get_header();
-		get_template_part( '404_error', 'index' );
-		get_template_part( 'desktop', 'index' );	
-		get_footer(); 
-	}else{
-		get_header("mobile"); 
-		get_template_part( 'mobile', 'index' );	
-		get_footer("mobile"); 
-	}
 ?>
+
+<div id="container">
+	<div id="sidebar">
+			<div class="sidebar_txt">
+				&nbsp;&nbsp;<a class="menu" href="javascript:void(0);">Error 404</a>&nbsp;&nbsp;
+			</div>
+			<div class="sid_line"></div>
+			<p>Pagina non trovata...</p>
+		<div class="clear"></div>
+	</div>
+
