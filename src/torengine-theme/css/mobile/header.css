@@ -45,6 +45,11 @@
 
 
 #logo{
+	background-image: url("./../../img/desktop/logo_mobile.png"); 
+	background-repeat: no-repeat; 
+	width: 320px;
+	height: 107px;
+	margin: 0 auto;
 }
 
 .logo_separator{

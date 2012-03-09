@@ -55,7 +55,7 @@
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/mobile/body.css" />
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/mobile/footer.css" />
 	<link rel="stylesheet" type="text/css" href="<?php bloginfo('template_url'); ?>/css/mobile/link.css" />
-	
+	<script type="text/javascript" src="<?php bloginfo('template_url'); ?>/js/menu.js"></script>
 	<?php
 		wp_head();
 	?>
@@ -65,8 +65,7 @@
 <div id="header_line"></div>
 <div id="logo">
 	<a class="title_blog" href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/">
-		<div class="logo_font1">Tor</div>
-		<div class="logo_font2">Engine</div>
+		<div id="logo"></div>
 	</a>
 </div>
 <div class="clear"></div>

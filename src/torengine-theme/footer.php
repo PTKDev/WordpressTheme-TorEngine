@@ -22,7 +22,7 @@
 		<div class="footer_line"></div>
 	</div>
 	<div id="footer">
-		<div class="footer_font1">TorEngine ~ Version 0.1</div>
+		<div class="footer_font1">TorEngine ~ Version 0.2</div>
 		<div class="footer_font2">2012 ~ <?php echo date('Y')+1;?></div><br />
 	</div>
 	<img style="position: absolute; top: 15px; right: 0; border: 0; z-index: 5;" src="<?php bloginfo('template_url'); ?>/img/desktop/AO-Maru_Logo_Sx.png">

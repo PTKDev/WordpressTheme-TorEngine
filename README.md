@@ -1,6 +1,6 @@
 #TorEngine (Wordpress Theme)
 
-TorEngine (Wordpress Theme) is official wordpress theme of http://torengine.ptkdev.it/
+TorEngine (Wordpress Theme) is official wordpress theme of http://www.torengine.it/
 
 WARNING: This theme is fork of PTKDev Blog - Wordpress Theme https://github.com/PTKDev/WordpressTheme-PTKDevBlog
 
@@ -15,7 +15,7 @@ WARNING: This theme is fork of PTKDev Blog - Wordpress Theme https://github.com/
 
 You can find us on this web source:
 
-WebSite: http://www.ptkdev.it/
+WebSite: http://www.torengine.it/
 
 Source: https://github.com/PTKDev/
 
