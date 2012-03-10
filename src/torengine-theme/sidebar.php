@@ -43,7 +43,7 @@
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/geometria-appunti-google-docs/">Appunti Google Docs</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/geometria-appunti-scannerizzati/">Appunti Scannerizzati</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/geometria-esercizi-svolti/">Esercizi Svolti</a><br /> 
-			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/geometria-video-lezioni/">Video-Lezioni</a><br />
+			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/geometria-video-audio-lezioni/">Video/Audio Lezioni</a><br />
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/openftp/geometria/">Deposito File</a>
 			</div>
 			<br /><br />
@@ -52,7 +52,7 @@
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/algebra-e-logica-appunti-google-docs/">Appunti Google Docs</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/algebra-e-logica-appunti-scannerizzati/">Appunti Scannerizzati</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/algebra-e-logica-esercizi-svolti/">Esercizi Svolti</a><br /> 
-			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/algebra-e-logica-video-lezioni/">Video-Lezioni</a><br />
+			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/algebra-e-logica-video-audio-lezioni/">Video/Audio Lezioni</a><br />
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/openftp/algebra/">Deposito File</a>
 			</div>
 			<br /><br />
@@ -61,7 +61,7 @@
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/analisi-1-appunti-google-docs/">Appunti Google Docs</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/analisi-1-appunti-scannerizzati/">Appunti Scannerizzati</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/analisi-1-esercizi-svolti/">Esercizi Svolti</a><br /> 
-			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/analisi-1-video-lezioni/">Video-Lezioni</a><br />
+			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/analisi-1-video-audio-lezioni/">Video/Audio Lezioni</a><br />
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/openftp/analisi1/">Deposito File</a>
 			</div>
 			<br /><br />
@@ -70,7 +70,7 @@
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/analisi-2-appunti-google-docs/">Appunti Google Docs</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/analisi-2-appunti-scannerizzati/">Appunti Scannerizzati</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/analisi-2-esercizi-svolti/">Esercizi Svolti</a><br /> 
-			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/analisi-2-video-lezioni/">Video-Lezioni</a><br />
+			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/analisi-2-video-audio-lezioni/">Video/Audio Lezioni</a><br />
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/openftp/analisi2/">Deposito File</a>
 			</div>
 			<br /><br />
@@ -79,7 +79,7 @@
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/fisica-1-appunti-google-docs/">Appunti Google Docs</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/fisica-1-appunti-scannerizzati/">Appunti Scannerizzati</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/fisica-1-esercizi-svolti/">Esercizi Svolti</a><br /> 
-			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/fisica-1-video-lezioni/">Video-Lezioni</a><br />
+			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/fisica-1-video-audio-lezioni/">Video/Audio Lezioni</a><br />
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/openftp/chimica/">Deposito File</a>
 			</div>
 			<br /><br />
@@ -88,7 +88,7 @@
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/chimica-appunti-google-docs/">Appunti Google Docs</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/chimica-appunti-scannerizzati/">Appunti Scannerizzati</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/chimica-esercizi-svolti/">Esercizi Svolti</a><br /> 
-			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/chimica-video-lezioni/">Video-Lezioni</a><br />
+			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/chimica-video-audio-lezioni/">Video/Audio Lezioni</a><br />
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/openftp/chimica/">Deposito File</a>
 			</div>
 			<br /><br />
@@ -97,16 +97,17 @@
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/economia-appunti-google-docs/">Appunti Google Docs</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/economia-appunti-scannerizzati/">Appunti Scannerizzati</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/economia-esercizi-svolti/">Esercizi Svolti</a><br /> 
-			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/economia-video-lezioni/">Video-Lezioni</a><br />
+			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/economia-video-audio-lezioni/">Video/Audio Lezioni</a><br />
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/openftp/economia/">Deposito File</a>
 			</div>
 			<br /><br />
 			&bull; <a class="bold" href='javascript: apri_menu("menu8")'>Informatica (C++)</a>
 			<div id='menu8' style="display: none;">
+			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/informatica-cpp-codeblocks/">Settaggi CodeBlocks</a><br />
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/informatica-cpp-appunti-google-docs/">Appunti Google Docs</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/informatica-cpp-appunti-scannerizzati/">Appunti Scannerizzati</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/informatica-cpp-esercizi-svolti/">Esercizi Svolti</a><br /> 
-			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/informatica-cpp-video-lezioni/">Video-Lezioni</a><br />
+			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/informatica-cpp-video-audio-lezioni/">Video/Audio Lezioni</a><br />
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/openftp/informatica-cpp/">Deposito File</a>
 			</div>
 		<br /><br /><br />
