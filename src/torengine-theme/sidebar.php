@@ -80,7 +80,7 @@
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/fisica-1-appunti-scannerizzati/">Appunti Scannerizzati</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/fisica-1-esercizi-svolti/">Esercizi Svolti</a><br /> 
 			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/fisica-1-video-audio-lezioni/">Video/Audio Lezioni</a><br />
-			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/openftp/chimica/">Deposito File</a>
+			&raquo; <a href="http://<?php echo $_SERVER['SERVER_NAME']; ?>/openftp/fisica1/">Deposito File</a>
 			</div>
 			<br /><br />
 			&bull; <a class="bold" href='javascript: apri_menu("menu6")'>Chimica</a>
