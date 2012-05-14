@@ -24,7 +24,7 @@
 </div>
 
 <div id="footer">
-	<div class="footer_font1">TorEngine ~ Version 0.2 (Mobile) </div>
+	<div class="footer_font1">TorEngine ~ Version 0.2.1 (Mobile) </div>
 	<div class="footer_font2">2012 ~ <?php echo date('Y')+1;?></div><br />
 </div>
 <?php wp_footer(); ?>
